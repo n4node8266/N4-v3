@@ -35,26 +35,21 @@ A powerful, fully-featured Discord bot built with **Discord.js v14**. This bot f
 
 ## 📦 Installation & Setup
 
-1. **Clone the Repository**
-   ```bash
-   git clone <your-repo-url>
-   cd n4v2
-   ```
 
-2. **Install Dependencies**
+1. **Install Dependencies**
    ```bash
    npm install
    ```
    *Prerequisite: Node.js v16.9.0 or higher is required.*
 
-3. **Configuration**
+2. **Configuration**
    Create a `.env` file in the root directory (copy from default if available) and add:
    ```env
    DISCORD_TOKEN=your_bot_token_here
    CLIENT_ID=your_client_id_here
    ```
 
-4. **Start the Bot**
+3. **Start the Bot**
    ```bash
    npm start
    ```
